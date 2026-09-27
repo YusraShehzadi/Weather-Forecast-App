@@ -1,9 +1,9 @@
-# ☁️ Weatherly — Modern Desktop Weather Dashboard
+# ☁️ Weather Forecast App — Modern Desktop Dashboard
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-blue?style=for-the-badge)](https://github.com/TomSchimansky/CustomTkinter)
 [![API](https://img.shields.io/badge/API-Open--Meteo-brightgreen?style=for-the-badge)](https://open-meteo.com)
-[![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/YusraShehzadi/Weatherly)
+[![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/YusraShehzadi/Weather-Forecast-App)
 [![Author](https://img.shields.io/badge/Author-Yusra%20Shehzadi-FF69B4?style=for-the-badge&logo=github)](https://github.com/YusraShehzadi)
 
 A desktop weather intelligence dashboard with a modern dark theme, real-time geocoding, procedural vector weather icons, hourly forecasts, and 5-day meteorological projections.
@@ -61,7 +61,7 @@ graph TD
 ### Option 1: Run the Standalone Desktop Application (Recommended)
 No Python installation or external dependencies are required.
 
-1. Navigate to the **[Releases](https://github.com/YusraShehzadi/Weatherly/releases)** section of this repository.
+1. Navigate to the **[Releases](https://github.com/YusraShehzadi/Weather-Forecast-App/releases)** section of this repository.
 2. Download the latest **`Weatherly.exe`**.
 3. Double-click **`Weatherly.exe`** on any Windows machine to launch the full GUI dashboard.
 
@@ -72,10 +72,10 @@ You can verify live API integration and meteorological parsing directly from you
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YusraShehzadi/Weatherly.git
+git clone https://github.com/YusraShehzadi/Weather-Forecast-App.git
 
 # 2. Enter project directory
-cd Weatherly
+cd Weather-Forecast-App
 
 # 3. Install demo requirements
 pip install -r requirements.txt

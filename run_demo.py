@@ -127,8 +127,8 @@ def main():
         print(f"    -> Standalone binary detected at: {found_exe}")
         print("    Run 'python run_demo.py --gui' or double click the executable to launch.")
     else:
-        print("    -> To run the full GUI application:")
-        print("       Download 'Weatherly.exe' from the GitHub Releases section.")
+        print("       Download 'Weatherly.exe' from the GitHub Releases section:")
+        print("       https://github.com/YusraShehzadi/Weather-Forecast-App/releases")
         print("       No Python installation or dependencies required on Windows!\n")
 
 if __name__ == "__main__":
