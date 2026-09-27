@@ -4,6 +4,7 @@
 weatherapp.py
 weatherapp_core/
 *.spec
+push_to_github.bat
 
 # Build outputs & executables (Distribute via GitHub Releases)
 build/
