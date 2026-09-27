@@ -1,0 +1,28 @@
+# ============================================================
+# CRITICAL: PROPRIETARY SOURCE PROTECTION
+# ============================================================
+weatherapp.py
+weatherapp_core/
+*.spec
+
+# Build outputs & executables (Distribute via GitHub Releases)
+build/
+dist/
+*.exe
+
+# Python artifacts & caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# IDE & OS settings
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

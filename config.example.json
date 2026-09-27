@@ -1,0 +1,18 @@
+{
+  "app_name": "Weatherly",
+  "theme": "dark",
+  "color_accent": "#19A7FF",
+  "default_city": "Tokyo",
+  "units": {
+    "temperature": "celsius",
+    "wind_speed": "km/h",
+    "precipitation": "mm"
+  },
+  "window": {
+    "width": 1250,
+    "height": 760,
+    "min_width": 1050,
+    "min_height": 650
+  },
+  "refresh_interval_minutes": 15
+}
